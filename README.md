@@ -2,6 +2,7 @@
 
 
 <p align="center">
- <img widht="469" height="399" scr="AvnDXN_l71QAAAAC/touhou-reimu-hakurei.gif">
+ <img widht="469" height="399" scr="media1.tenor.com/m/AvnDXN_l71QAAAAC/touhou-reimu-hakurei.gif">
    </p>
+   
    
